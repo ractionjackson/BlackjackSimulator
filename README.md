@@ -1,2 +1,2 @@
 # BlackjackSimulator
-A planned blackjack simulator written in ncurses
+A planned blackjack simulator written in ncurses to extrapolate and explore coding some mathematics (along with statistics) to be able to assess the benefits of a given card-counting scheme with different house rules in effect (shoe size, shoe reshuffle marker, et cetera...) and also plan to extend the project to include options such as casino detection, AI players who bet according to heuristics of "attitude" and API or plugin for neural network bot along with multiplayer.
